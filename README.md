@@ -14,4 +14,4 @@ Este é um projeto básico de Android que demonstra como criar uma tela de login
 
 ## Credenciais
 - login: admin
-- senha: admin@1234
+- senha: admin
